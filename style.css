@@ -1,0 +1,33 @@
+.navbar-brand {
+  font-weight: bolder;
+  font-size: 25px;
+}
+
+.nae {
+  margin-top: 90px;
+  margin-right: 20px;
+  margin-bottom: 130px;
+  margin-left: 20px;
+}
+
+button#myong {
+  margin-bottom: 30px;
+}
+
+.sol {
+  text-align: center;
+  margin-top: 70px;
+}
+
+.link {
+  text-align: center;
+  margin-top: 70px;
+}
+
+.solm {
+  margin-top: 30px;
+}
+
+footer {
+  padding: 20px;
+}
